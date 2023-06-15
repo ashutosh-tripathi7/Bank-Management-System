@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BalanceEnquiry",
+            "request": "launch",
+            "mainClass": "ASimulatorSystem.BalanceEnquiry",
+            "projectName": "ATM-Simulator-System_dfffefa1"
+        },
+        {
+            "type": "java",
+            "name": "Deposit",
+            "request": "launch",
+            "mainClass": "ASimulatorSystem.Deposit",
+            "projectName": "ATM-Simulator-System_dfffefa1"
+        },
+        {
+            "type": "java",
+            "name": "FastCash",
+            "request": "launch",
+            "mainClass": "ASimulatorSystem.FastCash",
+            "projectName": "ATM-Simulator-System_dfffefa1"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "ASimulatorSystem.Login",
+            "projectName": "ATM-Simulator-System_dfffefa1"
+        },
+        {
+            "type": "java",
+            "name": "MiniStatement",
+            "request": "launch",
+            "mainClass": "ASimulatorSystem.MiniStatement",
+            "projectName": "ATM-Simulator-System_dfffefa1"
+        },
+        {
+            "type": "java",
+            "name": "Pin",
+            "request": "launch",
+            "mainClass": "ASimulatorSystem.Pin",
+            "projectName": "ATM-Simulator-System_dfffefa1"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "ASimulatorSystem.Practice",
+            "projectName": "ATM-Simulator-System_dfffefa1"
+        },
+        {
+            "type": "java",
+            "name": "Signup",
+            "request": "launch",
+            "mainClass": "ASimulatorSystem.Signup",
+            "projectName": "ATM-Simulator-System_dfffefa1"
+        },
+        {
+            "type": "java",
+            "name": "Signup2",
+            "request": "launch",
+            "mainClass": "ASimulatorSystem.Signup2",
+            "projectName": "ATM-Simulator-System_dfffefa1"
+        },
+        {
+            "type": "java",
+            "name": "Signup3",
+            "request": "launch",
+            "mainClass": "ASimulatorSystem.Signup3",
+            "projectName": "ATM-Simulator-System_dfffefa1"
+        },
+        {
+            "type": "java",
+            "name": "Transactions",
+            "request": "launch",
+            "mainClass": "ASimulatorSystem.Transactions",
+            "projectName": "ATM-Simulator-System_dfffefa1"
+        },
+        {
+            "type": "java",
+            "name": "Withdrawl",
+            "request": "launch",
+            "mainClass": "ASimulatorSystem.Withdrawl",
+            "projectName": "ATM-Simulator-System_dfffefa1"
+        }
+    ]
+}
